@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="ParticlePipeline.ImportContentData">
+    <Data>
+      <Name></Name>
+      <TimeSequencesInfo>
+        <Item>
+          <StartTime>0</StartTime>
+          <Duration>1</Duration>
+          <Style>None</Style>
+          <ParticleInfo>
+            <Name>Spark</Name>
+            <ParticleType>Billboard</ParticleType>
+            <MeshData Null="true" />
+            <TextureFileName>Spark_Horizontal06</TextureFileName>
+            <AlphaBlendEnable>true</AlphaBlendEnable>
+            <DepthBufferEnable>false</DepthBufferEnable>
+            <SourceBlend>SourceAlpha</SourceBlend>
+            <DestinationBlend>One</DestinationBlend>
+            <BlendFunction>Add</BlendFunction>
+            <LifeTime>1</LifeTime>
+            <ObjectLifeTime>0.5</ObjectLifeTime>
+            <MassMin>0.2</MassMin>
+            <MassMax>0.2</MassMax>
+            <InitialObjectCount>5</InitialObjectCount>
+            <MaxObjectCount>5</MaxObjectCount>
+            <EmitCount>1</EmitCount>
+            <Volatile>true</Volatile>
+            <EmitType>Cone</EmitType>
+            <EmitPosition>1 0 0</EmitPosition>
+            <EmitDirection>-0.707107 0.707107 0</EmitDirection>
+            <EmitAngle>40</EmitAngle>
+            <EmitInterval>0.05</EmitInterval>
+            <UpVector>0 1 0</UpVector>
+            <PositionStyle>22</PositionStyle>
+            <PositionUpdateInterval>0</PositionUpdateInterval>
+            <PositionFunc>
+              <Item>Constant</Item>
+              <Item>Sin</Item>
+            </PositionFunc>
+            <PositionInit>30 0</PositionInit>
+            <PositionFactor>1 -200</PositionFactor>
+            <PositionTable>
+              <Item>
+                <Count>10</Count>
+                <IsFixedInterval>true</IsFixedInterval>
+                <Table>18.7415733 11.8595524 8.353931 6.30899 5.578652 5.308989 5.308989 5.308989 5.308989 5.275283</Table>
+                <Time />
+              </Item>
+              <Item>
+                <Count>0</Count>
+                <IsFixedInterval>true</IsFixedInterval>
+                <Table />
+                <Time />
+              </Item>
+            </PositionTable>
+            <PositionMin>0.5</PositionMin>
+            <PositionMax>50</PositionMax>
+            <PositionInitialRandomFactor>1</PositionInitialRandomFactor>
+            <PositionRandomFactor>1 1 1</PositionRandomFactor>
+            <PositionRandomInterval>0</PositionRandomInterval>
+            <ScaleStyle>1</ScaleStyle>
+            <ScaleUpdateInterval>0</ScaleUpdateInterval>
+            <ScaleFunc>
+              <Item>None</Item>
+              <Item>Constant</Item>
+            </ScaleFunc>
+            <ScaleInit>0.3 0</ScaleInit>
+            <ScaleFactor>1 1</ScaleFactor>
+            <ScaleTable />
+            <ScaleInitialRandomFactor>1</ScaleInitialRandomFactor>
+            <ScaleMin>0</ScaleMin>
+            <ScaleMax>0</ScaleMax>
+            <ScaleMask>1 1 1</ScaleMask>
+            <ScaleBillboardFactor>1</ScaleBillboardFactor>
+            <RotateStyle>0</RotateStyle>
+            <RotateUpdateInterval>0</RotateUpdateInterval>
+            <RotateRandomFactor>1</RotateRandomFactor>
+            <RotateFunc>None</RotateFunc>
+            <RotateInit>0</RotateInit>
+            <RotateFactor>1</RotateFactor>
+            <RotateTable Null="true" />
+            <ColorStyle>2</ColorStyle>
+            <ColorUpdateInterval>0</ColorUpdateInterval>
+            <RgbFunc>Table</RgbFunc>
+            <RgbInit>175,175,175,0</RgbInit>
+            <Rtable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>217 180</Table>
+              <Time>0 1</Time>
+            </Rtable>
+            <Gtable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>213 186</Table>
+              <Time>0 1</Time>
+            </Gtable>
+            <Btable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>196 146</Table>
+              <Time>0 1</Time>
+            </Btable>
+            <Atable>
+              <Count>3</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>255 0 0</Table>
+              <Time>0 0.5 1</Time>
+            </Atable>
+            <AlphaFunc>Table</AlphaFunc>
+            <AlphaInit>175</AlphaInit>
+          </ParticleInfo>
+          <TextureSequence Null="true" />
+        </Item>
+        <Item>
+          <StartTime>0</StartTime>
+          <Duration>1</Duration>
+          <Style>None</Style>
+          <ParticleInfo>
+            <Name>Spark2</Name>
+            <ParticleType>AnchorBillboard</ParticleType>
+            <MeshData Null="true" />
+            <TextureFileName>Spark_Horizontal05</TextureFileName>
+            <AlphaBlendEnable>true</AlphaBlendEnable>
+            <DepthBufferEnable>false</DepthBufferEnable>
+            <SourceBlend>SourceAlpha</SourceBlend>
+            <DestinationBlend>One</DestinationBlend>
+            <BlendFunction>Add</BlendFunction>
+            <LifeTime>1</LifeTime>
+            <ObjectLifeTime>1</ObjectLifeTime>
+            <MassMin>0.1</MassMin>
+            <MassMax>0.1</MassMax>
+            <InitialObjectCount>7</InitialObjectCount>
+            <MaxObjectCount>7</MaxObjectCount>
+            <EmitCount>1</EmitCount>
+            <Volatile>true</Volatile>
+            <EmitType>Cone</EmitType>
+            <EmitPosition>1 0 0</EmitPosition>
+            <EmitDirection>-0.707107 0.707107 0</EmitDirection>
+            <EmitAngle>80</EmitAngle>
+            <EmitInterval>0.05</EmitInterval>
+            <UpVector>0 1 0</UpVector>
+            <PositionStyle>6</PositionStyle>
+            <PositionUpdateInterval>0</PositionUpdateInterval>
+            <PositionFunc>
+              <Item>Table</Item>
+              <Item>None</Item>
+            </PositionFunc>
+            <PositionInit>50 0</PositionInit>
+            <PositionFactor>1 -40</PositionFactor>
+            <PositionTable>
+              <Item>
+                <Count>10</Count>
+                <IsFixedInterval>true</IsFixedInterval>
+                <Table>469.471863 13.960681 4.342698 4.050561 3.870786 2.724719 1.91573 1.308989 0.904494 0.904494</Table>
+                <Time />
+              </Item>
+              <Item>
+                <Count>0</Count>
+                <IsFixedInterval>true</IsFixedInterval>
+                <Table />
+                <Time />
+              </Item>
+            </PositionTable>
+            <PositionMin>0.5</PositionMin>
+            <PositionMax>50</PositionMax>
+            <PositionInitialRandomFactor>1</PositionInitialRandomFactor>
+            <PositionRandomFactor>1 1 1</PositionRandomFactor>
+            <PositionRandomInterval>0</PositionRandomInterval>
+            <ScaleStyle>1</ScaleStyle>
+            <ScaleUpdateInterval>0</ScaleUpdateInterval>
+            <ScaleFunc>
+              <Item>None</Item>
+              <Item>Constant</Item>
+            </ScaleFunc>
+            <ScaleInit>5 -0.1</ScaleInit>
+            <ScaleFactor>1 1</ScaleFactor>
+            <ScaleTable />
+            <ScaleInitialRandomFactor>1</ScaleInitialRandomFactor>
+            <ScaleMin>0</ScaleMin>
+            <ScaleMax>0</ScaleMax>
+            <ScaleMask>1 1 1</ScaleMask>
+            <ScaleBillboardFactor>3</ScaleBillboardFactor>
+            <RotateStyle>0</RotateStyle>
+            <RotateUpdateInterval>0</RotateUpdateInterval>
+            <RotateRandomFactor>1</RotateRandomFactor>
+            <RotateFunc>None</RotateFunc>
+            <RotateInit>0</RotateInit>
+            <RotateFactor>1</RotateFactor>
+            <RotateTable Null="true" />
+            <ColorStyle>2</ColorStyle>
+            <ColorUpdateInterval>0</ColorUpdateInterval>
+            <RgbFunc>Table</RgbFunc>
+            <RgbInit>175,175,175,0</RgbInit>
+            <Rtable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>155 152</Table>
+              <Time>0 1</Time>
+            </Rtable>
+            <Gtable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>189 157</Table>
+              <Time>0 1</Time>
+            </Gtable>
+            <Btable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>179 180</Table>
+              <Time>0 1</Time>
+            </Btable>
+            <Atable>
+              <Count>4</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>255 255 0 0</Table>
+              <Time>0 0.087227 0.130841 1</Time>
+            </Atable>
+            <AlphaFunc>Table</AlphaFunc>
+            <AlphaInit>175</AlphaInit>
+          </ParticleInfo>
+          <TextureSequence Null="true" />
+        </Item>
+        <Item>
+          <StartTime>0</StartTime>
+          <Duration>1</Duration>
+          <Style>None</Style>
+          <ParticleInfo>
+            <Name>Glow1</Name>
+            <ParticleType>Sprite</ParticleType>
+            <MeshData Null="true" />
+            <TextureFileName>GlowSpark02</TextureFileName>
+            <AlphaBlendEnable>true</AlphaBlendEnable>
+            <DepthBufferEnable>false</DepthBufferEnable>
+            <SourceBlend>SourceAlpha</SourceBlend>
+            <DestinationBlend>One</DestinationBlend>
+            <BlendFunction>Add</BlendFunction>
+            <LifeTime>1</LifeTime>
+            <ObjectLifeTime>0.3</ObjectLifeTime>
+            <MassMin>0.1</MassMin>
+            <MassMax>0.1</MassMax>
+            <InitialObjectCount>2</InitialObjectCount>
+            <MaxObjectCount>2</MaxObjectCount>
+            <EmitCount>1</EmitCount>
+            <Volatile>true</Volatile>
+            <EmitType>Cone</EmitType>
+            <EmitPosition>1 0 0</EmitPosition>
+            <EmitDirection>-1 0 0</EmitDirection>
+            <EmitAngle>60</EmitAngle>
+            <EmitInterval>0.05</EmitInterval>
+            <UpVector>0 1 0</UpVector>
+            <PositionStyle>4</PositionStyle>
+            <PositionUpdateInterval>0</PositionUpdateInterval>
+            <PositionFunc>
+              <Item>Constant</Item>
+              <Item>Sin</Item>
+            </PositionFunc>
+            <PositionInit>0 0</PositionInit>
+            <PositionFactor>1 -30</PositionFactor>
+            <PositionTable />
+            <PositionMin>0.5</PositionMin>
+            <PositionMax>50</PositionMax>
+            <PositionInitialRandomFactor>1</PositionInitialRandomFactor>
+            <PositionRandomFactor>1 1 1</PositionRandomFactor>
+            <PositionRandomInterval>0</PositionRandomInterval>
+            <ScaleStyle>3</ScaleStyle>
+            <ScaleUpdateInterval>0</ScaleUpdateInterval>
+            <ScaleFunc>
+              <Item>Constant</Item>
+              <Item>None</Item>
+            </ScaleFunc>
+            <ScaleInit>4 0</ScaleInit>
+            <ScaleFactor>1 1</ScaleFactor>
+            <ScaleTable>
+              <Item>
+                <Count>10</Count>
+                <IsFixedInterval>true</IsFixedInterval>
+                <Table>0.5 3.131125 3.346518 3.365281 3.371459 3.371345 3.371231 3.371155 3.371155 3.371155</Table>
+                <Time />
+              </Item>
+              <Item>
+                <Count>0</Count>
+                <IsFixedInterval>true</IsFixedInterval>
+                <Table />
+                <Time />
+              </Item>
+            </ScaleTable>
+            <ScaleInitialRandomFactor>0.1</ScaleInitialRandomFactor>
+            <ScaleMin>0</ScaleMin>
+            <ScaleMax>0</ScaleMax>
+            <ScaleMask>1 1 1</ScaleMask>
+            <ScaleBillboardFactor>1</ScaleBillboardFactor>
+            <RotateStyle>0</RotateStyle>
+            <RotateUpdateInterval>0</RotateUpdateInterval>
+            <RotateRandomFactor>1</RotateRandomFactor>
+            <RotateFunc>None</RotateFunc>
+            <RotateInit>0</RotateInit>
+            <RotateFactor>1</RotateFactor>
+            <RotateTable Null="true" />
+            <ColorStyle>2</ColorStyle>
+            <ColorUpdateInterval>0</ColorUpdateInterval>
+            <RgbFunc>Table</RgbFunc>
+            <RgbInit>175,175,175,0</RgbInit>
+            <Rtable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>175 201</Table>
+              <Time>0 1</Time>
+            </Rtable>
+            <Gtable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>187 216</Table>
+              <Time>0 1</Time>
+            </Gtable>
+            <Btable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>157 208</Table>
+              <Time>0 1</Time>
+            </Btable>
+            <Atable>
+              <Count>4</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>255 255 0 0</Table>
+              <Time>0 0.174455 0.641745 1</Time>
+            </Atable>
+            <AlphaFunc>Table</AlphaFunc>
+            <AlphaInit>175</AlphaInit>
+          </ParticleInfo>
+          <TextureSequence Null="true" />
+        </Item>
+        <Item>
+          <StartTime>0</StartTime>
+          <Duration>1</Duration>
+          <Style>None</Style>
+          <ParticleInfo>
+            <Name>Glow2</Name>
+            <ParticleType>PointSprite</ParticleType>
+            <MeshData Null="true" />
+            <TextureFileName>Glow_Yellow</TextureFileName>
+            <AlphaBlendEnable>true</AlphaBlendEnable>
+            <DepthBufferEnable>false</DepthBufferEnable>
+            <SourceBlend>SourceAlpha</SourceBlend>
+            <DestinationBlend>One</DestinationBlend>
+            <BlendFunction>Add</BlendFunction>
+            <LifeTime>1</LifeTime>
+            <ObjectLifeTime>0.2</ObjectLifeTime>
+            <MassMin>0.1</MassMin>
+            <MassMax>0.1</MassMax>
+            <InitialObjectCount>2</InitialObjectCount>
+            <MaxObjectCount>2</MaxObjectCount>
+            <EmitCount>1</EmitCount>
+            <Volatile>true</Volatile>
+            <EmitType>Cone</EmitType>
+            <EmitPosition>1 0 0</EmitPosition>
+            <EmitDirection>-1 0 0</EmitDirection>
+            <EmitAngle>20</EmitAngle>
+            <EmitInterval>0.05</EmitInterval>
+            <UpVector>0 1 0</UpVector>
+            <PositionStyle>4</PositionStyle>
+            <PositionUpdateInterval>0</PositionUpdateInterval>
+            <PositionFunc>
+              <Item>Constant</Item>
+              <Item>Sin</Item>
+            </PositionFunc>
+            <PositionInit>0 0</PositionInit>
+            <PositionFactor>1 -30</PositionFactor>
+            <PositionTable />
+            <PositionMin>0.5</PositionMin>
+            <PositionMax>50</PositionMax>
+            <PositionInitialRandomFactor>1</PositionInitialRandomFactor>
+            <PositionRandomFactor>1 1 1</PositionRandomFactor>
+            <PositionRandomInterval>0</PositionRandomInterval>
+            <ScaleStyle>1</ScaleStyle>
+            <ScaleUpdateInterval>0</ScaleUpdateInterval>
+            <ScaleFunc>
+              <Item>None</Item>
+              <Item>Constant</Item>
+            </ScaleFunc>
+            <ScaleInit>15 0</ScaleInit>
+            <ScaleFactor>1 1</ScaleFactor>
+            <ScaleTable />
+            <ScaleInitialRandomFactor>1</ScaleInitialRandomFactor>
+            <ScaleMin>0</ScaleMin>
+            <ScaleMax>0</ScaleMax>
+            <ScaleMask>1 1 1</ScaleMask>
+            <ScaleBillboardFactor>1</ScaleBillboardFactor>
+            <RotateStyle>0</RotateStyle>
+            <RotateUpdateInterval>0</RotateUpdateInterval>
+            <RotateRandomFactor>1</RotateRandomFactor>
+            <RotateFunc>None</RotateFunc>
+            <RotateInit>0</RotateInit>
+            <RotateFactor>1</RotateFactor>
+            <RotateTable Null="true" />
+            <ColorStyle>2</ColorStyle>
+            <ColorUpdateInterval>0</ColorUpdateInterval>
+            <RgbFunc>Table</RgbFunc>
+            <RgbInit>175,175,175,0</RgbInit>
+            <Rtable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>155 152</Table>
+              <Time>0 1</Time>
+            </Rtable>
+            <Gtable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>189 157</Table>
+              <Time>0 1</Time>
+            </Gtable>
+            <Btable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>179 180</Table>
+              <Time>0 1</Time>
+            </Btable>
+            <Atable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>113 0</Table>
+              <Time>0 1</Time>
+            </Atable>
+            <AlphaFunc>Table</AlphaFunc>
+            <AlphaInit>175</AlphaInit>
+          </ParticleInfo>
+          <TextureSequence Null="true" />
+        </Item>
+      </TimeSequencesInfo>
+    </Data>
+  </Asset>
+</XnaContent>

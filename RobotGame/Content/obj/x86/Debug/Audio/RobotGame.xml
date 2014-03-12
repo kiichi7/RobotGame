@@ -1,0 +1,1338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="RobotGame">Wave Bank
+{
+    Name = RobotGame;
+    Xbox File = Xbox\RobotGame.xwb;
+    Windows File = Win\RobotGame.xwb;
+    Xbox Bank Path Edited = 1;
+    Windows Bank Path Edited = 1;
+    Seek Tables = 1;
+    Compression Preset Name = Music Preset;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 0;
+    Bank Last Revised High = 0;
+
+    Wave
+    {
+        Name = Explosion_PC_1;
+        File = Waves\Mech\Explosion_PC_1.wav;
+        Build Settings Last Modified Low = 1387964116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 145920;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332857844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Explosion_PC_2;
+        File = Waves\Mech\Explosion_PC_2.wav;
+        Build Settings Last Modified Low = 1387964116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 288542;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1331764094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = HERO_Move;
+        File = Waves\Mech\HERO_Move.wav;
+        Build Settings Last Modified Low = 1387964116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 94374;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1331764094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = HERO_Run;
+        File = Waves\Mech\HERO_Run.wav;
+        Build Settings Last Modified Low = 1388120366;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 70560;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332701594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Step_Cameleer;
+        File = Waves\Mech\Step_Cameleer.wav;
+        Build Settings Last Modified Low = 1388120366;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 94376;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332545344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Step_Duskmas;
+        File = Waves\Mech\Step_Duskmas.wav;
+        Build Settings Last Modified Low = 1388120366;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 70560;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332389094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Step_Hammer;
+        File = Waves\Mech\Step_Hammer.wav;
+        Build Settings Last Modified Low = 1388276616;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 141120;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332545344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Step_Tank;
+        File = Waves\Mech\Step_Tank.wav;
+        Build Settings Last Modified Low = 1388432866;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 259060;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332076594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Explosion_HeavyMech_1;
+        File = Waves\Mech\Explosion_HeavyMech_1.wav;
+        Build Settings Last Modified Low = 1388432866;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 147150;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332232844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Explosion_HeavyMech_2;
+        File = Waves\Mech\Explosion_HeavyMech_2.wav;
+        Build Settings Last Modified Low = 1388432866;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 327604;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332389094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Explosion_LightMech_1;
+        File = Waves\Mech\Explosion_LightMech_1.wav;
+        Build Settings Last Modified Low = 1388432866;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 115514;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1331920344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Explosion_LightMech_2;
+        File = Waves\Mech\Explosion_LightMech_2.wav;
+        Build Settings Last Modified Low = 1388589116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 185344;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1331920344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = MenuClose;
+        File = Waves\Menu\MenuClose.wav;
+        Build Settings Last Modified Low = 1388589116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 156578;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1090982844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = MenuOpen;
+        File = Waves\Menu\MenuOpen.wav;
+        Build Settings Last Modified Low = 1388589116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 194150;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1090826594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Point_Up;
+        File = Waves\Menu\Point_Up.wav;
+        Build Settings Last Modified Low = 1388589116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 49152;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1091139094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = BClick_Menu;
+        File = Waves\Menu\BClick_Menu.wav;
+        Build Settings Last Modified Low = 1388589116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 93714;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1091139094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Error;
+        File = Waves\Menu\Error.wav;
+        Build Settings Last Modified Low = 1388589116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 105396;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1090982844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_SMG;
+        File = Waves\Weapons\Fire_SMG.wav;
+        Build Settings Last Modified Low = 1388745366;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 62128;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344264094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = HIT_FM_Grenade;
+        File = Waves\Weapons\HIT_FM_Grenade.wav;
+        Build Settings Last Modified Low = 1388745366;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 94124;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344107844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = HIT_MachineGun;
+        File = Waves\Weapons\HIT_MachineGun.wav;
+        Build Settings Last Modified Low = 1388745366;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 62848;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1345045344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Reload_AR3;
+        File = Waves\Weapons\Reload_AR3.wav;
+        Build Settings Last Modified Low = 1388901616;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 84958;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344576594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Reload_PM42;
+        File = Waves\Weapons\Reload_PM42.wav;
+        Build Settings Last Modified Low = 1388901616;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 185396;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344420344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Reload_SMG;
+        File = Waves\Weapons\Reload_SMG.wav;
+        Build Settings Last Modified Low = 1388901616;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 144350;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344732844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = EmptyMagazine;
+        File = Waves\Weapons\EmptyMagazine.wav;
+        Build Settings Last Modified Low = 1389057866;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 16592;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344420344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_CameleerT1_Gun;
+        File = Waves\Weapons\Fire_CameleerT1_Gun.wav;
+        Build Settings Last Modified Low = 1389057866;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 6598;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344264094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_Hammer_Gun;
+        File = Waves\Weapons\Fire_Hammer_Gun.wav;
+        Build Settings Last Modified Low = 1389214116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 160332;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1343951594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_PM42;
+        File = Waves\Weapons\Fire_PM42.wav;
+        Build Settings Last Modified Low = 1389214116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 66168;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1343951594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = MissionFail;
+        File = Waves\BGM\MissionFail.wav;
+        Build Settings Last Modified Low = 1389214116;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 697230;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1308795344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = MissionSuccess;
+        File = Waves\BGM\MissionSuccess.wav;
+        Build Settings Last Modified Low = 1389370366;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 743646;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1308639094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = TitleMenu;
+        File = Waves\BGM\TitleMenu.wav;
+        Build Settings Last Modified Low = 1389370366;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Music Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 1949184;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1271764094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = BGM_France;
+        File = Waves\BGM\BGM_France.wav;
+        Build Settings Last Modified Low = 1389370366;
+        Build Settings Last Modified High = 29870204;
+        Compression Preset Name = Music Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 19819008;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1271451594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Step_Tiger12;
+        File = Waves\Mech\Step_Tiger12.wav;
+        Build Settings Last Modified Low = 710359570;
+        Build Settings Last Modified High = 29871830;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 172936;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332545344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = HIT_Axis6M;
+        File = Waves\Weapons\HIT_Axis6M.wav;
+        Build Settings Last Modified Low = 710203320;
+        Build Settings Last Modified High = 29871830;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 43344;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344576594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = HIT_Hammer_Melee;
+        File = Waves\Weapons\HIT_Hammer_Melee.wav;
+        Build Settings Last Modified Low = 710203320;
+        Build Settings Last Modified High = 29871830;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 84090;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1343795344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_Hammer_Melee;
+        File = Waves\Weapons\Fire_Hammer_Melee.wav;
+        Build Settings Last Modified Low = 710203320;
+        Build Settings Last Modified High = 29871830;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 122608;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1343795344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_Tiger12_Gun;
+        File = Waves\Weapons\Fire_Tiger12_Gun.wav;
+        Build Settings Last Modified Low = 631297070;
+        Build Settings Last Modified High = 29871830;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 184264;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344107844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = HIT_60mm;
+        File = Waves\Weapons\HIT_60mm.wav;
+        Build Settings Last Modified Low = 599265820;
+        Build Settings Last Modified High = 29871830;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 122496;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1343639094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = BGM_AircraftCarrier;
+        File = Waves\BGM\BGM_AircraftCarrier.wav;
+        Build Settings Last Modified Low = 3253030911;
+        Build Settings Last Modified High = 29875578;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 15418368;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1286295344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_Phantom_Melee;
+        File = Waves\Weapons\Fire_Phantom_Melee.wav;
+        Build Settings Last Modified Low = 1683799270;
+        Build Settings Last Modified High = 29876130;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 60588;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344889094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = HIT_Phantom_Melee;
+        File = Waves\Weapons\HIT_Phantom_Melee.wav;
+        Build Settings Last Modified Low = 1683799270;
+        Build Settings Last Modified High = 29876130;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 58292;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344889094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Step_Phantom_Boss;
+        File = Waves\Mech\Step_Phantom_Boss.wav;
+        Build Settings Last Modified Low = 1802549270;
+        Build Settings Last Modified High = 29876130;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 141120;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332076594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = HERO_PreBooster;
+        File = Waves\Mech\HERO_PreBooster.wav;
+        Build Settings Last Modified Low = 234762795;
+        Build Settings Last Modified High = 29876979;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 65916;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332389094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = HERO_Booster;
+        File = Waves\Mech\HERO_Booster.wav;
+        Build Settings Last Modified Low = 234762795;
+        Build Settings Last Modified High = 29876979;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 193536;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332232844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Step_Maoming;
+        File = Waves\Mech\Step_Maoming.wav;
+        Build Settings Last Modified Low = 1314704814;
+        Build Settings Last Modified High = 29877591;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 94374;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1332701594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_MaomingT3_Gun;
+        File = Waves\Weapons\Fire_MaomingT3_Gun.wav;
+        Build Settings Last Modified Low = 8749656;
+        Build Settings Last Modified High = 29878589;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 11182;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344732844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = ITEM_BULLET;
+        File = Waves\Item\ITEM_BULLET.wav;
+        Build Settings Last Modified Low = 1005355380;
+        Build Settings Last Modified High = 29877845;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 66540;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1345826594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = ITEM_HP;
+        File = Waves\Item\ITEM_HP.wav;
+        Build Settings Last Modified Low = 1005355380;
+        Build Settings Last Modified High = 29877845;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 108908;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1345826594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = ITEM_WEAPON;
+        File = Waves\Item\ITEM_WEAPON.wav;
+        Build Settings Last Modified Low = 1005355380;
+        Build Settings Last Modified High = 29877845;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 88586;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1345826594;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_Shotgun;
+        File = Waves\Weapons\Fire_Shotgun.wav;
+        Build Settings Last Modified Low = 8593406;
+        Build Settings Last Modified High = 29878589;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 68066;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344264094;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Reload_Handgun;
+        File = Waves\Weapons\Reload_Handgun.wav;
+        Build Settings Last Modified Low = 8593406;
+        Build Settings Last Modified High = 29878589;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 47512;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344420344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Reload_Shotgun;
+        File = Waves\Weapons\Reload_Shotgun.wav;
+        Build Settings Last Modified Low = 8749656;
+        Build Settings Last Modified High = 29878589;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 184056;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344732844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_Handgun;
+        File = Waves\Weapons\Fire_Handgun.wav;
+        Build Settings Last Modified Low = 8749656;
+        Build Settings Last Modified High = 29878589;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 51796;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1344107844;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = SwapWeapon;
+        File = Waves\Mech\SwapWeapon.wav;
+        Build Settings Last Modified Low = 2639789002;
+        Build Settings Last Modified High = 29878788;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 65808;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1331920344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = MainMenu;
+        File = Waves\BGM\MainMenu.wav;
+        Build Settings Last Modified Low = 1968786842;
+        Build Settings Last Modified High = 29880248;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 9805824;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1308170344;
+            Last Modified High = 29882661;
+        }
+    }
+
+    Wave
+    {
+        Name = Fire_Duskmas_Gun;
+        File = Waves\Weapons\Fire_Duskmas_Gun.wav;
+        Build Settings Last Modified Low = 1512303086;
+        Build Settings Last Modified High = 29885009;
+        Compression Preset Name = Effect Preset;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 72290;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1343795344;
+            Last Modified High = 29882661;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

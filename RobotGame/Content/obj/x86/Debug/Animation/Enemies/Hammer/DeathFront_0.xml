@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="AnimationPipeline.ImportContentData">
+    <Data>
+      <KeyFrameSequenceCount>17</KeyFrameSequenceCount>
+      <Duration>2</Duration>
+      <KeyFrameSequences>
+        <Item>
+          <BoneName>L Calf</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>1.418715 0 -0</Translation>
+          <Rotation>-0 -0 -0.346857 0.937918 0 -0 -0.44346 0.896294 -0 -0 -0.43786 0.899043 -0 0 -0.373695 0.927552 0 -0 -0.378846 0.92546 0 -0 -0.377459 0.926026 -0 0 -0.349829 0.936814 -0 -0 -0.306941 0.951729 -0 0 -0.306939 0.951729 -0 -0 -0.306938 0.95173 -0 -0 -0.306944 0.951728 0 0 -0.306939 0.951729 -0 -0 -0.306944 0.951728</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>L Clavicle</BoneName>
+          <KeyCount>1</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>true</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>true</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>0.000105 0.13207 0.176431</Translation>
+          <Rotation>0.707107 -0.000283 0.707107 0.000281</Rotation>
+          <Scale />
+          <Time>0</Time>
+        </Item>
+        <Item>
+          <BoneName>L Foot</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>1.502948 0 0</Translation>
+          <Rotation>0.011557 -0.040886 0.14073 0.989136 0.025744 -0.077736 0.285196 0.954965 0.03105 -0.113135 0.360212 0.925464 0.034315 -0.143792 0.401264 0.903954 0.03112 -0.156362 0.389008 0.907334 0.017889 -0.163962 0.37223 0.913368 0.02115 -0.148803 0.276932 0.949062 0.023554 -0.073055 -0.051874 0.995699 0.002452 -0.044527 -0.194906 0.979808 0.005997 -0.044338 -0.188701 0.981015 -0.003406 -0.038736 -0.225189 0.973539 -0.004393 -0.038363 -0.228413 0.972798 -0.003406 -0.038736 -0.225189 0.973539</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>L Forearm</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>1.471291 -0 0</Translation>
+          <Rotation>0 0 -0.716053 0.698046 -0 -0 -0.397376 0.917656 -0 0 -0.231711 0.972785 0 0 -0.12974 0.991548 0 0 -0.186029 0.982544 -0 -0 -0.261392 0.965233 0 0 -0.16205 0.986782 -0 0 -0.056338 0.998412 0 0 -0.095991 0.995382 -0 -0 -0.170626 0.985336 -0 -0 -0.228854 0.973461 0 -0 -0.234344 0.972154 -0 -0 -0.228854 0.973461</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>L Thigh</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>-1E-06 1E-06 0.5873</Translation>
+          <Rotation>0.323662 0.935411 0.131894 -0.053422 0.141698 0.978843 0.111621 -0.096584 -0.030981 0.988892 0.08733 -0.116217 -0.166022 0.975565 0.075103 -0.122758 -0.108159 0.984269 0.075977 -0.117234 0.022009 0.991864 0.07565 -0.099989 0.184024 0.975222 0.095486 -0.077203 0.37928 0.915565 0.127801 -0.03941 0.365672 0.921113 0.127436 -0.039939 0.305712 0.942278 0.127902 -0.047883 0.402505 0.906072 0.125797 -0.03462 0.410412 0.90262 0.125348 -0.033579 0.402505 0.906072 0.125797 -0.03462</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>L UpperArm</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>1.215524 -0 -0</Translation>
+          <Rotation>-0.084835 0.696944 -0.05575 0.709904 -0.042829 0.624214 0.107106 0.772691 -0.028955 0.639623 0.103551 0.761131 -0.010125 0.660693 0.094678 0.744593 0.034849 0.688948 0.095738 0.717614 0.068023 0.698785 0.099223 0.705143 0.027473 0.647813 0.117166 0.752234 0.006757 0.584945 0.126787 0.801074 0.088933 0.592266 0.144848 0.787611 0.151569 0.613918 0.125739 0.764409 0.099541 0.624819 0.012375 0.7743 0.095459 0.625425 0.00242 0.774419 0.099541 0.624819 0.012375 0.7743</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>Neck_NA</BoneName>
+          <KeyCount>1</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>true</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>true</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>1.244915 -9.5E-05 0</Translation>
+          <Rotation>-0 -0 0 1</Rotation>
+          <Scale />
+          <Time>0</Time>
+        </Item>
+        <Item>
+          <BoneName>Pelvis</BoneName>
+          <KeyCount>1</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>true</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>true</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>-0.133054 0 -0</Translation>
+          <Rotation>-0.499999 -0.5 -0.5 0.500001</Rotation>
+          <Scale />
+          <Time>0</Time>
+        </Item>
+        <Item>
+          <BoneName>R Calf</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>1.418715 -0 -0</Translation>
+          <Rotation>-0 0 -0.29373 0.955888 0 -0 -0.472497 0.881332 -0 0 -0.526198 0.850362 -0 0 -0.53897 0.842325 0 -0 -0.573925 0.818908 -0 -0 -0.605982 0.795479 -0 -0 -0.577788 0.816187 0 -0 -0.473992 0.880529 0 0 -0.405428 0.914127 0 -0 -0.398412 0.917207 0 -0 -0.355579 0.934646 -0 -0 -0.351627 0.93614 0 -0 -0.355579 0.934646</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>R Clavicle</BoneName>
+          <KeyCount>1</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>true</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>true</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>0.000105 0.132071 -0.17643</Translation>
+          <Rotation>-0.707107 0.000281 0.707107 0.000283</Rotation>
+          <Scale />
+          <Time>0</Time>
+        </Item>
+        <Item>
+          <BoneName>R Foot</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>1.502948 -0 -0</Translation>
+          <Rotation>-0.041322 0.009443 0.029966 0.998652 -0.04674 0.035851 0.217084 0.974374 -0.04886 0.063387 0.32146 0.943535 -0.054534 0.088135 0.401959 0.909773 -0.055287 0.099067 0.417186 0.901712 -0.050165 0.11008 0.434533 0.892495 -0.065705 0.106857 0.377399 0.917515 -0.060448 0.032797 -0.062784 0.995655 -0.018499 -0.015636 -0.292624 0.955921 -0.020285 -0.017017 -0.296142 0.954777 -0.022652 -0.009216 -0.295387 0.955065 -0.022817 -0.008242 -0.294732 0.955272 -0.022652 -0.009216 -0.295387 0.955065</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>R Forearm</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>1.471291 0 0</Translation>
+          <Rotation>0 -0 -0.510985 0.859589 0 0 -0.486947 0.873432 -0 0 -0.404482 0.914546 0 0 -0.353957 0.935262 -0 -0 -0.423734 0.905787 -0 0 -0.473005 0.88106 0 -0 -0.317176 0.948367 0 -0 -0.14314 0.989703 0 -0 -0.15982 0.987146 -0 -0 -0.223746 0.974647 -0 -0 -0.271097 0.962552 -0 0 -0.275514 0.961297 -0 -0 -0.271097 0.962552</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>R Thigh</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>1E-06 -1E-06 -0.5873</Translation>
+          <Rotation>0.379765 0.916131 -0.125139 0.028682 0.252091 0.959213 -0.104698 0.07348 0.119324 0.985129 -0.079271 0.094866 0.023218 0.992114 -0.063597 0.105478 0.092952 0.988224 -0.062285 0.104371 0.223542 0.968149 -0.061065 0.094804 0.327785 0.937579 -0.082237 0.082096 0.477547 0.86925 -0.120247 0.043521 0.444947 0.886963 -0.119922 0.030619 0.384657 0.914416 -0.120284 0.037603 0.441979 0.888572 -0.120423 0.024373 0.446287 0.886476 -0.120181 0.023336 0.441979 0.888572 -0.120423 0.024373</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>R UpperArm</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>1.215524 -0 0</Translation>
+          <Rotation>-0.08047 -0.60441 0.074189 0.789119 -0.031901 -0.546196 0.249017 0.799151 -0.000262 -0.554661 0.182303 0.81186 -0.000726 -0.565105 0.132989 0.81423 -0.087305 -0.569921 0.180175 0.796935 -0.184203 -0.581254 0.210091 0.764248 -0.191448 -0.644279 0.096196 0.734165 -0.161688 -0.70862 0.005323 0.686794 -0.190819 -0.696875 0.07295 0.687482 -0.186592 -0.672257 0.140922 0.702421 -0.067624 -0.683737 0.105333 0.718912 -0.057235 -0.684073 0.102656 0.719882 -0.067624 -0.683737 0.105333 0.718912</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>Root</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>false</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>7.3E-05 -0 3.244519 7.3E-05 0.551592 3.122809 7.3E-05 1.002995 3.028862 7.3E-05 1.463068 2.908708 7.3E-05 1.896582 2.784329 7.3E-05 2.467175 2.509475 7.3E-05 3.508259 1.829158 7.3E-05 4.472205 1.207548 7.3E-05 4.709537 1.019091 7.3E-05 4.739596 0.999822 7.3E-05 4.739596 1.107329 7.3E-05 4.739596 1.116084 7.3E-05 4.739596 1.107329</Translation>
+          <Rotation>-0.088704 0.088705 0.701521 0.70152 0.00916 -0.00916 0.707048 0.707047 0.06562 -0.065619 0.704056 0.704055 0.073287 -0.073287 0.703299 0.703298 -0.017565 0.017565 0.706889 0.706888 -0.179512 0.179513 0.683941 0.68394 -0.405106 0.405106 0.57956 0.579559 0.558774 -0.558774 -0.433327 -0.433326 0.549378 -0.549378 -0.445179 -0.445178 0.521614 -0.521613 -0.47741 -0.477409 0.558774 -0.558773 -0.433327 -0.433326 0.561715 -0.561715 -0.429507 -0.429507 0.558774 -0.558773 -0.433327 -0.433326</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+        <Item>
+          <BoneName>Spine</BoneName>
+          <KeyCount>1</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>true</HasTime>
+          <FixedTranslation>true</FixedTranslation>
+          <FixedRotation>true</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>0.505896 -0.140641 1E-06</Translation>
+          <Rotation>-2E-06 -1E-06 0.044017 0.999031</Rotation>
+          <Scale />
+          <Time>0</Time>
+        </Item>
+        <Item>
+          <BoneName>Spine1</BoneName>
+          <KeyCount>13</KeyCount>
+          <Duration>2</Duration>
+          <KeyInterval>0.166667</KeyInterval>
+          <HasTranslation>true</HasTranslation>
+          <HasRotation>true</HasRotation>
+          <HasScale>false</HasScale>
+          <HasTime>false</HasTime>
+          <FixedTranslation>false</FixedTranslation>
+          <FixedRotation>false</FixedRotation>
+          <FixedScale>false</FixedScale>
+          <Translation>0.401258 -0.000991 4E-06 0.400988 -0.000955 3.6E-05 0.401022 -0.000964 2.5E-05 0.401084 -0.000977 1.3E-05 0.401191 -0.000989 -4E-06 0.401258 -0.000991 4E-06 0.401145 -0.000981 9.6E-05 0.400961 -0.000936 0.000145 0.400771 -0.000864 6.9E-05 0.400695 -0.000819 -2.7E-05 0.400904 -0.00092 -0.000123 0.400922 -0.000925 -0.000132 0.400904 -0.00092 -0.000123</Translation>
+          <Rotation>-0.002041 0.06606 0.00287 0.997809 -0.009217 0.067621 -0.135175 0.988469 -0.004235 0.072649 -0.117117 0.990448 -0.000241 0.075378 -0.085686 0.993467 0.00469 0.08014 -0.0307 0.9963 -0.002041 0.06606 0.00287 0.997809 -0.048829 -0.006426 -0.053853 0.997334 -0.085075 -0.073413 -0.143287 0.983281 -0.051395 -0.058851 -0.248218 0.965548 0.004227 -0.03227 -0.294341 0.955146 0.056613 -0.036107 -0.181057 0.981178 0.061515 -0.036254 -0.171564 0.982582 0.056613 -0.036107 -0.181057 0.981178</Rotation>
+          <Scale />
+          <Time />
+        </Item>
+      </KeyFrameSequences>
+    </Data>
+  </Asset>
+</XnaContent>

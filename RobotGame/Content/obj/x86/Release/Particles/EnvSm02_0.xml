@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="ParticlePipeline.ImportContentData">
+    <Data>
+      <Name></Name>
+      <TimeSequencesInfo>
+        <Item>
+          <StartTime>0</StartTime>
+          <Duration>0</Duration>
+          <Style>None</Style>
+          <ParticleInfo>
+            <Name>Smoke0</Name>
+            <ParticleType>Sprite</ParticleType>
+            <MeshData Null="true" />
+            <TextureFileName>Smoke01</TextureFileName>
+            <AlphaBlendEnable>true</AlphaBlendEnable>
+            <DepthBufferEnable>false</DepthBufferEnable>
+            <SourceBlend>SourceAlpha</SourceBlend>
+            <DestinationBlend>InverseSourceAlpha</DestinationBlend>
+            <BlendFunction>Add</BlendFunction>
+            <LifeTime>0</LifeTime>
+            <ObjectLifeTime>3</ObjectLifeTime>
+            <MassMin>0.001</MassMin>
+            <MassMax>0.002</MassMax>
+            <InitialObjectCount>1</InitialObjectCount>
+            <MaxObjectCount>8</MaxObjectCount>
+            <EmitCount>1</EmitCount>
+            <Volatile>false</Volatile>
+            <EmitType>Cone</EmitType>
+            <EmitPosition>0 0 0</EmitPosition>
+            <EmitDirection>0 0 1</EmitDirection>
+            <EmitAngle>5</EmitAngle>
+            <EmitInterval>0.5</EmitInterval>
+            <UpVector>0 0 1</UpVector>
+            <PositionStyle>4</PositionStyle>
+            <PositionUpdateInterval>0</PositionUpdateInterval>
+            <PositionFunc>
+              <Item>None</Item>
+              <Item>Sin</Item>
+            </PositionFunc>
+            <PositionInit>4 0</PositionInit>
+            <PositionFactor>1 -0.5</PositionFactor>
+            <PositionTable />
+            <PositionMin>0</PositionMin>
+            <PositionMax>30</PositionMax>
+            <PositionInitialRandomFactor>2</PositionInitialRandomFactor>
+            <PositionRandomFactor>1 1 1</PositionRandomFactor>
+            <PositionRandomInterval>0</PositionRandomInterval>
+            <ScaleStyle>1</ScaleStyle>
+            <ScaleUpdateInterval>0</ScaleUpdateInterval>
+            <ScaleFunc>
+              <Item>None</Item>
+              <Item>Sin</Item>
+            </ScaleFunc>
+            <ScaleInit>15 0.8</ScaleInit>
+            <ScaleFactor>1 9</ScaleFactor>
+            <ScaleTable />
+            <ScaleInitialRandomFactor>2</ScaleInitialRandomFactor>
+            <ScaleMin>0</ScaleMin>
+            <ScaleMax>0</ScaleMax>
+            <ScaleMask>1 1 1</ScaleMask>
+            <ScaleBillboardFactor>1</ScaleBillboardFactor>
+            <RotateStyle>0</RotateStyle>
+            <RotateUpdateInterval>0</RotateUpdateInterval>
+            <RotateRandomFactor>1</RotateRandomFactor>
+            <RotateFunc>Constant</RotateFunc>
+            <RotateInit>0.3</RotateInit>
+            <RotateFactor>1</RotateFactor>
+            <RotateTable Null="true" />
+            <ColorStyle>2</ColorStyle>
+            <ColorUpdateInterval>0</ColorUpdateInterval>
+            <RgbFunc>Table</RgbFunc>
+            <RgbInit>175,175,175,0</RgbInit>
+            <Rtable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>101 0</Table>
+              <Time>0 1</Time>
+            </Rtable>
+            <Gtable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>106 0</Table>
+              <Time>0 1</Time>
+            </Gtable>
+            <Btable>
+              <Count>2</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>112 0</Table>
+              <Time>0 1</Time>
+            </Btable>
+            <Atable>
+              <Count>4</Count>
+              <IsFixedInterval>false</IsFixedInterval>
+              <Table>0 176 109 0</Table>
+              <Time>0 0.227414 0.588785 1</Time>
+            </Atable>
+            <AlphaFunc>Table</AlphaFunc>
+            <AlphaInit>175</AlphaInit>
+          </ParticleInfo>
+          <TextureSequence Null="true" />
+        </Item>
+      </TimeSequencesInfo>
+    </Data>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,3 @@
+Content\Audio\RobotGame.xgs
+Content\Audio\RobotGame.xwb
+Content\Audio\RobotGame.xsb

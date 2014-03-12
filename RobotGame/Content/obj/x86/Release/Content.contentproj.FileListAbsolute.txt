@@ -1,0 +1,2 @@
+C:\Documents and Settings\Administrator\桌面\RobotGame\RobotGame\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\RobotGame\RobotGame\Content\obj\x86\Release\Audio\RobotGame.xml
